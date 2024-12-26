@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A simple EDA on electric vehicle population dataset.
+A simple EDA on electric vehicle population dataset. Experimenting map plotting with cartopy.
 
 ## Project Organization
 
